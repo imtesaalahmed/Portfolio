@@ -123,11 +123,11 @@ hr {
 
 .section h1 {
     text-align: center;
-    max-width: max-content;
 }
 
 .ow {
     background-color: var(--off-white);
+    max-width: max-content;
 }
 
 /** footers  **/
