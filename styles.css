@@ -52,6 +52,7 @@ hr {
     border: 1px solid var(--primary-color);
     width: max-content;
     display: inline-block;
+    margin-top: auto;
 }
 
 
