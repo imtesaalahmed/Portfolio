@@ -128,7 +128,7 @@ hr {
 
 .ow {
     background-color: var(--off-white);
-    max-width: 2rem;
+    max-width: auto;
 }
 
 /** footers  **/
