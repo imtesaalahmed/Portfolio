@@ -35,7 +35,7 @@ hr {
 .link {
     box-sizing: border-box;
     text-decoration: none;
-    padding: 0.5rem 1rem;
+    padding: 1rem 1rem;
     margin-top: 5rem;
     margin-bottom: 1rem;
 }
@@ -117,7 +117,7 @@ hr {
 /** sections  **/
 
 .section {
-    padding: 2rem;
+    padding: 2rem 2rem;
 }
 
 .section h1 {
