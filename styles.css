@@ -28,7 +28,7 @@ hr {
 }
 
 .container-center {
-    max-width: 600px;
+    max-width: auto;
     margin: auto;
 }
 
