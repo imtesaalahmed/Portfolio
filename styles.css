@@ -120,6 +120,7 @@ hr {
 
 .section {
     padding: 2rem;
+    max-width: auto;
 }
 
 .section h1 {
